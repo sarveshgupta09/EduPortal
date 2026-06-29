@@ -96,7 +96,7 @@ const Register = () => {
               <span className="text-white text-md font-bold">C</span>
             </div>
             <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400">
-              CampuSphere
+              EduPortal
             </h1>
           </div>
 
