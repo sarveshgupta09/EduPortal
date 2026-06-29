@@ -157,7 +157,7 @@ const Home = () => {
               <span className="text-white text-xl font-bold">C</span>
             </div>
             <span className="text-2xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400">
-              CampuSphere
+              EduPortal
             </span>
           </div>
 
